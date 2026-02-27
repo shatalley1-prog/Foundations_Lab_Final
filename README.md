@@ -3,7 +3,7 @@
 **Shatiqua Talley**  
 The Knowledge House  
 Cybersecurity Foundations Intensive   
-Assignment Due Date: February 26, 2026
+February 26, 2026
 
 ## Introduction 
 
@@ -17,7 +17,7 @@ In this lab, I applied the core principles of the CIA Triad to ensure a secure a
 
 **Integrity:** By executing the `lab_verify.sh` Bash script, I generated an audit log (`setup_verify.txt`). This proves that the data in my environment has not been altered and provides a verifiable record of my system's state.
 
-**Availability:** By deploying my environment via **Google Cloud Shell**, I ensured that my workspace was available and accessible regardless of my local hardware restrictions or strict security postures on my host machine.
+**Availability:** By deploying my environment via **GITHUB CODESPACES**, I ensured that my workspace was available and accessible regardless of my local hardware restrictions or strict security postures on my host machine.
 
 ---
 ## References
